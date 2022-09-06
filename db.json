@@ -1,0 +1,69 @@
+{
+  "users":[
+  {
+    "id":1,
+    "name":"Shiva",
+    "email":"Shiva@gmail.com",
+    "address":"Kailasa",
+    "power":"Destruction",
+    "weapon":"Trishula"
+  },
+  {
+    "id":2,
+    "name":"Vishnu",
+    "email":"Vishnu@gmail.com",
+    "address":"Vaikunta",
+    "power":"Preservation",
+    "weapon":"Sudarshana Chakra"
+  },
+  {
+    "id":3,
+    "name":"Brahma",
+    "email":"Brahma@gmail.com",
+    "address":"Brahmaloka",
+    "power":"Creation",
+    "weapon":"Brahmastra"
+  },
+  {
+    "id":4,
+    "name":"Ganesha",
+    "email":"Ganesha@gmail.com",
+    "address":"Kailasa",
+    "power":"Remover of Obstacles",
+    "weapon":"Axe"
+  },
+  {
+    "id":5,
+    "name":"Hanuman",
+    "email":"Hanuman@gmail.com",
+    "address":"Anjanadri",
+    "power":"Extraordinarily Strong",
+    "weapon":"Gada"
+  },
+  {
+    "id":6,
+    "name":"Krishna",
+    "email":"Krishna@gmail.com",
+    "address":"Dwarka",
+    "power":"God of Protection",
+    "weapon":"Sudarshana Chakra"
+  },
+  {
+    "id":7,
+    "name":"Ram",
+    "email":"Ram@gmail.com",
+    "address":"Ayodhya",
+    "power":"Archery",
+    "weapon":"Bow and Arrow"
+  },
+  {
+    "id":8,
+    "name":"Yama",
+    "email":"Yama@gmail.com",
+    "address":"Yamalok",
+    "power":"God of Death",
+    "weapon":"Danda"
+  }
+] 
+}
+ 
